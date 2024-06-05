@@ -14,7 +14,7 @@
 
 - I've done CS50x:Introduction to Computer Science [Harvard University](https://cs50.harvard.edu/certificates/d4f29502-f9b6-4354-9255-686ee75d252a)
 
-- I've also done CS50SQL: Introduction to Databases with SQL [Harvard University](https://cs50.harvard.edu/certificates/e4b06cec-c697-456a-97a0-1139d180bc5a)
+- I've also done CS50SQL: Introduction to Databases with SQL [Harvard University](https://cs50.harvard.edu/certificates/e4b06cec-c697-456a-97a0-1139d180bc5a).
 - I’m currently learning **MERN: MongoDB, Express, React, Nodejs**
 - I'm proficient in Git & GitHub, version control system.
 - The dynamism of technology captivates me, and I'm consistently amazed by the transformative impact it has on the world. So, I decided to evolve and transform myself with the emerging technological revolution.
